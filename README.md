@@ -3,7 +3,10 @@
 
 ## 1. isaac-lab学习
 ### 初始化
+官方文档+范佬的中文文档
 ```
+conda activate isaaclab
+cd /home/hhz/UCAS/2024/IsaacLab
 
 ```
 
