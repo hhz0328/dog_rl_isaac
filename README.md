@@ -23,5 +23,9 @@ cd /home/hhz/UCAS/2024/dog_isaac/competition_v1-2/competition/legged_gym/legged_
 
 python train.py --task=go2 --num_envs=2048 --headless
 
+```
+### 演示
+```
+python play.py --task=go2 --load_run=/home/hhz/UCAS/2024/dog_isaac/competition_v1-2/competition/legged_gym/logs/rough_go2/Aug20_20-xxxx --resume --checkpoint=100 --num_envs=32
 
 ```
