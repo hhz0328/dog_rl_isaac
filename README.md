@@ -19,8 +19,8 @@ cd /home/hhz/UCAS/2024/robot_lab
 ### 训练
 ```
 conda activate legged_robot
-cd /home/hhz/UCAS/2024/dog_isaac/competition_v1-2/competition
-cd /legged_gym/legged_gym/script
+cd /home/hhz/UCAS/2024/dog_isaac/competition_v1-2/competition/legged_gym/legged_gym/scripts
+
 python train.py --task=go2 --num_envs=2048 --headless
 
 
