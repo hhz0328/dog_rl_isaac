@@ -1,7 +1,8 @@
 # dog_rl_isaac
 2024.9.20
 
-## 训练
+## 飞书项目-机械狗-不规则路面行走
+### 训练
 ```
 conda activate legged_robot
 cd /home/hhz/UCAS/2024/dog_isaac/competition_v1-2/competition
