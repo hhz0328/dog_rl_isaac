@@ -1,4 +1,4 @@
-# dog_rl_isaac
+# rl_isaac_human_dog
 2024.9.20
 
 ## 飞书项目-机械狗-不规则路面行走
