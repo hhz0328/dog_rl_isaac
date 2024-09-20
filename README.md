@@ -1,7 +1,21 @@
 # rl_isaac_human_dog
 2024.9.20
 
-## 飞书项目-机械狗-不规则路面行走
+## 1. isaac-lab学习
+### 初始化
+```
+
+```
+
+## 2. robot-lab
+范佬
+### 初始化
+```
+conda activate isaaclab
+cd /home/hhz/UCAS/2024/robot_lab
+```
+
+## 3. 飞书项目-机械狗-不规则路面行走   竞赛（5k）
 ### 训练
 ```
 conda activate legged_robot
