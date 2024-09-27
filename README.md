@@ -4,6 +4,9 @@
 ## 1. isaac-lab学习
 ### 初始化
 官方文档+范佬的中文文档
+
+https://isaac-sim.github.io/IsaacLab/source/setup/installation/index.html
+
 ```
 conda activate isaaclab
 cd /home/hhz/UCAS/2024/IsaacLab
@@ -12,6 +15,11 @@ cd /home/hhz/UCAS/2024/IsaacLab
 
 ## 2. robot-lab
 范佬
+
+https://docs.robotsfan.com/isaaclab/
+
+
+
 ### 初始化
 ```
 conda activate isaaclab
