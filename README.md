@@ -7,6 +7,8 @@
 
 https://isaac-sim.github.io/IsaacLab/source/setup/installation/index.html
 
+https://docs.robotsfan.com/isaaclab/
+
 ```
 conda activate isaaclab
 cd /home/hhz/UCAS/2024/IsaacLab
@@ -16,9 +18,7 @@ cd /home/hhz/UCAS/2024/IsaacLab
 ## 2. robot-lab
 范佬
 
-https://docs.robotsfan.com/isaaclab/
-
-
+https://github.com/fan-ziqi/robot_lab
 
 ### 初始化
 ```
